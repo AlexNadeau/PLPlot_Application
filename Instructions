@@ -1,0 +1,2 @@
+This application takes dimensions of a river and calculates a graph using integrals and other calcus theorems as well as the Pl Plot library
+It allows the user to save the dimensions in a file or use the existing dimensions whithin a file
